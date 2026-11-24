@@ -68,7 +68,7 @@ Tablero de seguimiento: **Trello** (enlace en el README).
 |---|---|---|
 | HU08 | Hecho | Informe de ética en `docs/etica.md`. |
 | HU09 | Hecho | README completo; cambios integrados a `main` mediante Pull Request. |
-| HU10 | Hecho | Presentación final en `docs/presentacion.pdf`. |
+| HU10 | Hecho | Presentación final en Canva ([ver presentación](https://canva.link/r8wamuazr03loi7)). |
 
 **Incremento:** proyecto completo, documentado y listo para presentar.
 

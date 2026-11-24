@@ -70,8 +70,7 @@ Detalle completo (alcance, recursos, riesgos, entregables): [`docs/planificacion
 └── docs/
     ├── planificacion.md            # Problema, objetivos, roles, backlog, sprint planning, riesgos
     ├── sprints.md                  # Dailies, conflicto, reviews y retrospectivas
-    ├── etica.md                    # Informe de ética
-    └── presentacion.pdf            # Presentación final
+    └── etica.md                    # Informe de ética
 ```
 
 ## Cómo ejecutarlo
@@ -99,6 +98,10 @@ Ejecutar las celdas en orden. Probado con Python 3.13 y TensorFlow 2.x.
 
 - Los empleados con **horas extra** se van el triple (30,5% vs. 10,4%).
 - El modelo cumple la meta de detectar más del 70% de las bajas, a costa de generar falsas alarmas. Por eso se usa como **alerta para conversar**, no como decisión.
+
+## Presentación
+
+Presentación final en Canva: [ver presentación](https://canva.link/r8wamuazr03loi7)
 
 ## Ética
 

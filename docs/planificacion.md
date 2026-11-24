@@ -117,4 +117,4 @@ El detalle de cada sprint está en [`sprints.md`](sprints.md).
 5. Informe de ética (`docs/etica.md`).
 6. README del repositorio.
 7. Tablero de Trello.
-8. Presentación final.
+8. Presentación final en Canva ([ver presentación](https://canva.link/r8wamuazr03loi7)).
